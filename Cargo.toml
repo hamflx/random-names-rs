@@ -9,4 +9,4 @@ repository = "https://github.com/chridou/random-names-rs"
 
 
 [dependencies]
-rand = "0.3.*"
+rand = "0.8.5"
